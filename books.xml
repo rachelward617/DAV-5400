@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <0>
+        <book_title>Run Fast, Eat Slow</book_title>
+        <author>Shalene Flanagan,Elyse Kopecky</author>
+        <year_published>2016</year_published>
+        <amazon_stars>5</amazon_stars>
+    </0>
+    <1>
+        <book_title>The Smitten Kitchen Cookbook: Recipes and Wisdom from an Obsessive Home Cook</book_title>
+        <author>Deb Perelman</author>
+        <year_published>2012</year_published>
+        <amazon_stars>4.5</amazon_stars>
+    </1>
+    <2>
+        <book_title>Cook90: The 30-Day Plan for Faster, Healthier, Happier Meals</book_title>
+        <author> David Tamarkin</author>
+        <year_published>2018</year_published>
+        <amazon_stars>4</amazon_stars>
+    </2>
+</root>
